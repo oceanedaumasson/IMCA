@@ -581,17 +581,6 @@
 			}
 , 			{
 				"box" : 				{
-					"id" : "obj-68",
-					"maxclass" : "comment",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 32.000000953674316, 277.333341598510742, 150.0, 34.0 ],
-					"text" : "Link to video:\n"
-				}
-
-			}
-, 			{
-				"box" : 				{
 					"id" : "obj-118",
 					"linecount" : 11,
 					"maxclass" : "comment",
@@ -1119,7 +1108,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 881.333359599113464, 482.666681051254272, 197.333339214324951, 22.0 ],
-					"text" : "cell 370 233 val 0 0 0 0"
+					"text" : "cell 414 291 val 0 0 0 0"
 				}
 
 			}
